@@ -46,8 +46,9 @@ The application includes:
 ![Generated Cover Letter](assets/generatedCoverLetter.png)
 
 ## Live Demo
-
+[text](https://ai-cover-letter-generator-seven.vercel.app/)
 
 
 ## GitHub Repository
 
+https://github.com/abhishek-8899/Prodesk-IT-Sprint-4
