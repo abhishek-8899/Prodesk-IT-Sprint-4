@@ -46,7 +46,7 @@ The application includes:
 ![Generated Cover Letter](assets/generatedCoverLetter.png)
 
 ## Live Demo
-[text](https://ai-cover-letter-generator-seven.vercel.app/)
+https://ai-cover-letter-generator-seven.vercel.app/
 
 
 ## GitHub Repository
