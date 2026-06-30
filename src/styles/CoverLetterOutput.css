@@ -1,0 +1,38 @@
+.output-card {
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+}
+
+.output-card h2 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.output-card pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    line-height: 1.8;
+    font-family: inherit;
+    background: #f9fafb;
+    padding: 20px;
+    border-radius: 8px;
+    border: 1px solid #e5e7eb;
+}
+
+.output-card button {
+    margin-top: 20px;
+    width: 100%;
+    padding: 12px;
+    background: #16a34a;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.output-card button:hover {
+    background: #15803d;
+}
